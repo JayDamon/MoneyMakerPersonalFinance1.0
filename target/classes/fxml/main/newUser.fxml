@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="473.0"
+            prefWidth="542.0" style="-fx-background-color: #88ABCA;" xmlns="http://javafx.com/javafx/8"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.moneymaker.main.NewUserController">
+    <padding>
+        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0"/>
+    </padding>
+    <Label layoutX="6.0" layoutY="7.0" prefHeight="50.0" prefWidth="241.0" style="-fx-font-weight: Bold;"
+           text="Money Maker" textFill="WHITE">
+        <font>
+            <Font size="34.0"/>
+        </font>
+    </Label>
+    <Label contentDisplay="CENTER" layoutX="32.0" layoutY="46.0" prefHeight="38.0" prefWidth="209.0"
+           style="-fx-font-weight: bold;" text="Budget Builder" textAlignment="CENTER" textFill="WHITE">
+        <font>
+            <Font size="21.0"/>
+        </font>
+    </Label>
+    <Label id="usernameLabel" layoutX="116.0" layoutY="117.0" prefHeight="17.0" prefWidth="149.0" text="Username"
+           AnchorPane.leftAnchor="116.0"/>
+    <Label id="usernameMatch" fx:id="usernameMatch" layoutX="189.0" layoutY="113.0" prefHeight="25.0" prefWidth="273.0"
+           textFill="RED"/>
+    <TextField id="userName" fx:id="textFieldUserName" layoutX="116.0" layoutY="141.0" prefHeight="25.0"
+               prefWidth="337.0" AnchorPane.leftAnchor="116.0"/>
+    <Label layoutX="116.0" layoutY="173.0" prefHeight="17.0" prefWidth="149.0" text="First Name"
+           AnchorPane.leftAnchor="116.0"/>
+    <TextField id="firstName" fx:id="textFieldFirstName" layoutX="126.0" layoutY="193.0" AnchorPane.leftAnchor="116.0"/>
+    <Label layoutX="304.0" layoutY="173.0" prefHeight="17.0" prefWidth="149.0" text="Last Name"
+           AnchorPane.leftAnchor="304.0"/>
+    <TextField id="lastName" fx:id="textFieldLastName" layoutX="304.0" layoutY="193.0" AnchorPane.leftAnchor="304.0"/>
+    <Label layoutX="116.0" layoutY="232.0" text="E-mail" AnchorPane.leftAnchor="116.0"/>
+    <TextField id="userEmail" fx:id="textFieldEmail" layoutX="136.0" layoutY="258.0" prefHeight="25.0" prefWidth="337.0"
+               AnchorPane.leftAnchor="116.0"/>
+    <Label layoutX="116.0" layoutY="295.0" prefHeight="17.0" prefWidth="149.0" text="Password"
+           AnchorPane.leftAnchor="116.0"/>
+    <TextField id="userPassword" fx:id="textFieldPassword" layoutX="116.0" layoutY="319.0"
+               AnchorPane.leftAnchor="116.0"/>
+    <Label layoutX="304.0" layoutY="295.0" prefHeight="17.0" prefWidth="149.0" text="Password Confirmation"
+           AnchorPane.leftAnchor="304.0"/>
+    <TextField id="userPasswordConfirmation" fx:id="textFieldPasswordConfirmation" layoutX="304.0" layoutY="319.0"
+               AnchorPane.leftAnchor="304.0"/>
+    <Label id="passwordMatch" fx:id="passwordMatch" layoutX="314.0" layoutY="344.0" prefHeight="25.0" prefWidth="149.0"
+           textFill="RED"/>
+    <CheckBox fx:id="checkBoxSaveCredentials" layoutX="125.0" layoutY="358.0" mnemonicParsing="false" text="Save Username"
+              AnchorPane.leftAnchor="116.0"/>
+    <CheckBox fx:id="checkBoxAutoLogin" layoutX="125.0" layoutY="389.0" mnemonicParsing="false" text="Automatically login at launch"
+              AnchorPane.leftAnchor="116.0"/>
+    <Button layoutX="126.0" layoutY="424.0" mnemonicParsing="false" onAction="#newUserCreation" prefHeight="25.0"
+            prefWidth="106.0" text="Sign Up" AnchorPane.leftAnchor="116.0"/>
+</AnchorPane>

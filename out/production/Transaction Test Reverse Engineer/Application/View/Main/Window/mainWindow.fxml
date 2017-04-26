@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import java.net.URL?>
+<AnchorPane id="mainPane" fx:id="mainPane" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="com.moneymaker.main.MainWindowController">
+    <BorderPane prefHeight="800.0" prefWidth="1500.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
+                AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <top>
+            <GridPane style="-fx-background-color: white;">
+                <MenuBar maxWidth="-Infinity" style="-fx-background-color: white;" GridPane.columnIndex="0"
+                         GridPane.hgrow="ALWAYS" GridPane.vgrow="ALWAYS">
+                    <Menu mnemonicParsing="false" text="File">
+                        <MenuItem mnemonicParsing="false" text="Import..."/>
+                        <MenuItem mnemonicParsing="false" text="Close"/>
+                    </Menu>
+                    <Menu mnemonicParsing="false" text="Options">
+                        <MenuItem mnemonicParsing="false" text="Preferences"/>
+                    </Menu>
+                    <Menu mnemonicParsing="false" text="Window">
+                        <MenuItem mnemonicParsing="false" text="Home"/>
+                    </Menu>
+                    <Menu mnemonicParsing="false" text="Help">
+                        <MenuItem mnemonicParsing="false" text="Help..."/>
+                    </Menu>
+                </MenuBar>
+                <AnchorPane id="anchorPaneUserInfo" BorderPane.alignment="CENTER_RIGHT" GridPane.columnIndex="1">
+                    <opaqueInsets>
+                        <Insets/>
+                    </opaqueInsets>
+                    <GridPane.margin>
+                        <Insets right="10.0"/>
+                    </GridPane.margin>
+                    <Label fx:id="userInfoLabel" alignment="TOP_RIGHT" contentDisplay="RIGHT" prefHeight="25.0"
+                           prefWidth="202.0" style="-fx-background-color: white; -fx-alignment: BASELINE_RIGHT;"
+                           textAlignment="RIGHT" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
+                           AnchorPane.rightAnchor="87.0" AnchorPane.topAnchor="0.0"/>
+                </AnchorPane>
+            </GridPane>
+        </top>
+        <left>
+            <VBox id="vBoxSidePanelButtons" style="-fx-background-color: white;">
+                <stylesheets>
+                    <URL value="@../../../CSS/SidePanelButtonStyle.css"/>
+                </stylesheets>
+                <VBox>
+                    <Button id="buttonHome" maxWidth="1.7976931348623157E308" onAction="#displayHome" text="Home"
+                            wrapText="True"/>
+                </VBox>
+                <VBox>
+                    <Button id="buttonAccounts" maxWidth="1.7976931348623157E308" onAction="#displayAccounts"
+                            text="Accounts" wrapText="True"/>
+                </VBox>
+                <VBox>
+                    <Button id="buttonBudget" maxWidth="1.7976931348623157E308" onAction="#displayBudget"
+                            text="Budget" wrapText="True"/>
+                </VBox>
+                <VBox>
+                    <Button id="buttonCashFlow" maxWidth="1.7976931348623157E308" onAction="#displayCashFlow"
+                            text="Cash Flow" wrapText="True"/>
+                </VBox>
+                <VBox>
+                    <Button id="buttonGoals" maxWidth="1.7976931348623157E308" onAction="#displayGoals"
+                            text="Goals" wrapText="True"/>
+                </VBox>
+                <VBox fx:id="vboxTransactions">
+                    <Button id="buttonTransactions" maxWidth="1.7976931348623157E308"
+                            onAction="#displayTransactions" text="Transactions" wrapText="True"/>
+                    <VBox fx:id="vboxTransactionOptions"/>
+                </VBox>
+                <VBox>
+                    <Button id="buttonTrends" maxWidth="1.7976931348623157E308" onAction="#displayTrends"
+                            text="Trends" wrapText="True"/>
+                </VBox>
+            </VBox>
+        </left>
+        <center>
+            <StackPane prefWidth="493.0" style="-fx-background-color: white;" AnchorPane.bottomAnchor="0.0"
+                       AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                <AnchorPane fx:id="homePane" visible="false">
+                    <fx:include source="../../TableView/Window/homeWindow.fxml" AnchorPane.bottomAnchor="0.0"
+                                AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0"
+                                AnchorPane.topAnchor="0.0"/>
+                </AnchorPane>
+                <AnchorPane fx:id="recurringTransactionTablePane" visible="false">
+                    <fx:include source="../../TableView/Window/recurringTransactionsWindow.fxml"
+                                AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
+                                AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0"/>
+                </AnchorPane>
+                <AnchorPane fx:id="transactionTablePane" visible="false">
+                    <fx:include fx:id="transactionTable" source="../../TableView/Window/transactionWindow.fxml"
+                                AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
+                                AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0"/>
+                </AnchorPane>
+                <AnchorPane fx:id="transferTablePane" visible="false">
+                    <fx:include fx:id="transferTable" source="../../TableView/Window/transferWindow.fxml"
+                                AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
+                                AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0"/>
+                </AnchorPane>
+                <AnchorPane fx:id="accountTablePane" visible="false">
+                    <fx:include fx:id="accountTable" source="../../TableView/Window/accountWindow.fxml"
+                                AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
+                                AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0"/>
+                </AnchorPane>
+                <AnchorPane fx:id="budgetTablePane" visible="false">
+                    <fx:include fx:id="budgetTable" source="../../TableView/Window/budgetWindow.fxml"
+                                AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
+                                AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0"/>
+                </AnchorPane>
+                <AnchorPane fx:id="goalsTablePane" visible="false">
+                    <fx:include fx:id="goalsTable" source="../../TableView/Window/goalsWindow.fxml"
+                                AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
+                                AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0"/>
+                </AnchorPane>
+                <AnchorPane fx:id="cashFlowTablePane" visible="false">
+                    <fx:include fx:id="cashFlowTable" source="../../TableView/Window/cashFlowWindow.fxml"
+                                AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
+                                AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0"/>
+                </AnchorPane>
+            </StackPane>
+        </center>
+        <stylesheets>
+            <URL value="@../../../CSS/TableStyle.css"/>
+        </stylesheets>
+    </BorderPane>
+</AnchorPane>

@@ -1,0 +1,7 @@
+.chart-plot-background {
+  -fx-background-color: transparent;
+}
+.default-color0.chart-bar {
+  -fx-border-color: black;
+  -fx-bar-fill: transparent;
+}

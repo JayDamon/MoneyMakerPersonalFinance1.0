@@ -1,0 +1,8 @@
+.button {
+	-fx-alignment: "BASELINE_LEFT";
+	-fx-background-color: transparent;
+	-fx-font-size: 20.0;
+}
+.button:hover {
+	-fx-background-color: #7999D7;
+}

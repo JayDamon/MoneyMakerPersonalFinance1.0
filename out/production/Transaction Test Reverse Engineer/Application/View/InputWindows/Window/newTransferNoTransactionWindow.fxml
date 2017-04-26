@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="anchorPaneNewTransfer" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="219.0" prefWidth="331.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.moneymaker.modules.transfermanager.NewTransferNoTransactionController">
+   <children>
+      <Label layoutX="14.0" layoutY="12.0" prefHeight="17.0" prefWidth="89.0" text="Transfery Type:" />
+      <ComboBox fx:id="comboBoxTransferType" editable="true" layoutX="114.0" layoutY="8.0" prefWidth="199.0" promptText="Transfer Type" />
+       <Label layoutX="14.0" layoutY="48.0" prefHeight="17.0" prefWidth="120.0" text="Transfer Date:" />
+       <DatePicker fx:id="datePickerTransferDate" layoutX="114.0" layoutY="44.0" prefHeight="25.0" prefWidth="199.0" />
+       <Label layoutX="14.0" layoutY="84.0" prefHeight="17.0" prefWidth="89.0" text="From Account:" />
+       <ComboBox fx:id="comboBoxFromAccount" editable="true" layoutX="114.0" layoutY="80.0" prefWidth="199.0" promptText="From Account" />
+       <Label layoutX="14.0" layoutY="120.0" prefHeight="17.0" prefWidth="89.0" text="To Account:" />
+       <ComboBox fx:id="comboBoxToAccount" editable="true" layoutX="114.0" layoutY="116.0" prefWidth="199.0" promptText="To Account" />
+       <Label layoutX="14.0" layoutY="153.0" prefHeight="17.0" prefWidth="89.0" text="Amount:" />
+       <TextField fx:id="textFieldTransferAmount" layoutX="114.0" layoutY="149.0" prefHeight="25.0" prefWidth="199.0" promptText="Amount" />
+       <Button layoutX="272.0" layoutY="185.0" mnemonicParsing="false" onAction="#submitTransfer" text="Save" />
+       <Button layoutX="226.0" layoutY="185.0" mnemonicParsing="false" onAction="#exitWindow" text="Exit" />
+   </children>
+</AnchorPane>

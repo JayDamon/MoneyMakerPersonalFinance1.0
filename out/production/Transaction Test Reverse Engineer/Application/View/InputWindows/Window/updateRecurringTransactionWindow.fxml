@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.collections.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<AnchorPane prefHeight="400.0" prefWidth="349.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.moneymaker.modules.transactionmanager.recurringtransactions.UpdateRecurringTransactionController">
+    <children>
+        <Label fx:id="budgetType" layoutX="18.0" layoutY="7.0" prefHeight="25.0" prefWidth="331.0" style="-fx-font: NORMAL 20 Tahoma;" text="Update Recurring Transaction" />
+        <Label layoutX="18.0" layoutY="58.0" text="Name:" />
+        <TextField fx:id="txtName" layoutX="119.0" layoutY="54.0" prefHeight="25.0" prefWidth="199.0" promptText="Name" />
+        <Label layoutX="18.0" layoutY="89.0" text="Account:" />
+        <ComboBox fx:id="cmbAccounts" editable="true" layoutX="119.0" layoutY="85.0" prefHeight="25.0" prefWidth="199.0" promptText="Account">
+            <items>
+                <FXCollections fx:factory="observableArrayList" />
+            </items>
+        </ComboBox>
+        <Label layoutX="18.0" layoutY="120.0" text="Budget:" />
+        <ComboBox fx:id="cmbBudget" editable="true" layoutX="119.0" layoutY="116.0" prefHeight="25.0" prefWidth="199.0" promptText="Budget">
+            <items>
+                <FXCollections fx:factory="observableArrayList" />
+            </items>
+        </ComboBox>
+        <Label layoutX="18.0" layoutY="151.0" text="Frequency:" />
+        <ComboBox fx:id="cmbFrequency" editable="true" layoutX="119.0" layoutY="147.0" prefHeight="25.0" prefWidth="199.0" promptText="Frequency">
+            <items>
+                <FXCollections fx:factory="observableArrayList" />
+            </items>
+        </ComboBox>
+        <Label layoutX="18.0" layoutY="183.0" text="Occurrence:" />
+        <ComboBox fx:id="cmbOccurrence" editable="true" layoutX="119.0" layoutY="179.0" prefHeight="25.0" prefWidth="199.0" promptText="Occurance">
+            <items>
+                <FXCollections fx:factory="observableArrayList" />
+            </items>
+        </ComboBox>
+        <Label layoutX="18.0" layoutY="215.0" text="Type:" />
+        <ComboBox fx:id="cmbType" editable="true" layoutX="119.0" layoutY="211.0" prefHeight="25.0" prefWidth="199.0" promptText="Type">
+            <items>
+                <FXCollections fx:factory="observableArrayList" />
+            </items>
+        </ComboBox>
+        <Label layoutX="18.0" layoutY="246.0" text="Start Date:" />
+        <DatePicker fx:id="datePickerStartDate" editable="false" layoutX="119.0" layoutY="242.0" prefHeight="25.0" prefWidth="199.0" promptText="Start Date" />
+        <Label layoutX="18.0" layoutY="280.0" text="End Date:" />
+        <DatePicker fx:id="datePickerEndDate" editable="false" layoutX="119.0" layoutY="276.0" prefHeight="25.0" prefWidth="199.0" promptText="End Date" />
+        <Label layoutX="18.0" layoutY="312.0" text="Amount:" />
+        <TextField fx:id="txtAmount" layoutX="119.0" layoutY="308.0" prefHeight="25.0" prefWidth="199.0" promptText="Amount" />
+        <Button fx:id="btnAddRecurringTransaction" layoutX="271.0" layoutY="341.0" onAction="#buttonClickUpdateTransaction" text="Submit" />
+        <Button fx:id="btnExit" layoutX="225.0" layoutY="341.0" onAction="#exitWindow" text="Exit" />
+    </children>
+</AnchorPane>

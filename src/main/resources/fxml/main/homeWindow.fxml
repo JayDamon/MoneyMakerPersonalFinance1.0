@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.chart.*?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.*?>
+<?import java.net.URL?>
+<GridPane prefHeight="294.0" prefWidth="996.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1"
+          fx:controller="com.moneymaker.main.HomeController">
+    <padding>
+        <Insets bottom="10" left="10" top="10" />
+    </padding>
+   <children>
+           <Label style="-fx-font: NORMAL 25 Tahoma;" text="Home" BorderPane.alignment="CENTER_LEFT" GridPane.columnIndex="0" GridPane.columnSpan="2" GridPane.rowIndex="0" />
+           <ListView fx:id="listViewMonths" minWidth="50.0" prefHeight="400.0" prefWidth="100.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
+        </ListView>
+           <ListView fx:id="listViewYears" minWidth="50.0" prefHeight="200.0" prefWidth="100.0" GridPane.columnIndex="2" GridPane.rowIndex="2">
+        </ListView>
+       <StackPane fx:id="stackPaneBudget" prefHeight="600.0" prefWidth="550.0" GridPane.rowSpan="3" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+       <StackPane fx:id="stackPaneGoals" prefHeight="600.0" prefWidth="550.0" GridPane.rowSpan="3" GridPane.columnIndex="4" GridPane.rowIndex="2" />
+   </children>
+    <stylesheets>
+        <URL value="@../../css/CenterPanelButtonStyle.css" />
+    </stylesheets>
+</GridPane>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.collections.FXCollections?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.cell.*?>
+<?import javafx.scene.layout.*?>
+<?import java.net.URL?>
+<GridPane maxHeight="-Infinity" id="transferAnchorPane" prefWidth="896.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1"
+          fx:controller="com.moneymaker.modules.transfermanager.TransferController">
+    <padding>
+        <Insets bottom="10" left="10" top="10" />
+    </padding>
+    <Label GridPane.columnIndex="0" GridPane.rowIndex="0" GridPane.columnSpan="2" id="labelTest" style="-fx-font: NORMAL 25 Tahoma;" text="Transactions" />
+    <HBox GridPane.columnIndex="0" GridPane.rowIndex="1" minWidth="100" style="-fx-background-color: white;">
+        <Button id="buttonNewTransfer" maxWidth="1.7976931348623157E308" onAction="#newTransfer" text="New"
+                wrapText="True"/>
+        <Button id="buttonDeleteTransfer" maxWidth="1.7976931348623157E308" onAction="#deleteTransfer" text="Delete"
+                wrapText="True"/>
+        <Button id="buttonUpdateTransfer" maxWidth="1.7976931348623157E308" onAction="#updateTransfer" text="Update"
+                wrapText="True"/>
+        <Button id="buttonRefreshTransfers" maxWidth="1.7976931348623157E308" onAction="#showTransfers" text="Refresh Table"
+                wrapText="True"/>
+    </HBox>
+    <TableView GridPane.columnIndex="0" GridPane.rowIndex="2" fx:id="tableViewTransfers" editable="true" prefWidth="3000.0" prefHeight="2000.0">
+        <columns>
+            <TableColumn id="columnDate" prefWidth="97.0" text="Date">
+                <cellValueFactory>
+                    <PropertyValueFactory property="transferDate" />
+                </cellValueFactory>
+            </TableColumn>
+            <TableColumn id="columnTransactionCategory" prefWidth="140.0" text="Category">
+                <cellValueFactory>
+                    <PropertyValueFactory property="transferType" />
+                </cellValueFactory>
+            </TableColumn>
+            <TableColumn id="columnFromAccount" prefWidth="180.0" text="From Account">
+                <cellValueFactory>
+                    <PropertyValueFactory property="transferFromAccount" />
+                </cellValueFactory>
+            </TableColumn>
+            <TableColumn id="columnToAccount" prefWidth="180.0" text=" To Account">
+                <cellValueFactory>
+                    <PropertyValueFactory property="transferToAccount" />
+                </cellValueFactory>
+            </TableColumn>
+            <TableColumn id="columnAmount" minWidth="0.0" prefWidth="86.0" text="Amount">
+                <cellValueFactory>
+                    <PropertyValueFactory property="transferAmount" />
+                </cellValueFactory>
+            </TableColumn>
+        </columns>
+        <items>
+            <FXCollections fx:factory="observableArrayList">
+            </FXCollections>
+        </items>
+    </TableView>
+    <stylesheets>
+        <URL value="@../../css/CenterPanelButtonStyle.css" />
+    </stylesheets>
+</GridPane>

@@ -1,0 +1,9 @@
+.button {
+	-fx-alignment: "BASELINE_LEFT";
+	-fx-background-color: #C3D7FE;
+	-fx-font-size: 15.0;
+	-fx-border-color: white;
+}
+.button:hover {
+	-fx-background-color: #7999D7;
+}

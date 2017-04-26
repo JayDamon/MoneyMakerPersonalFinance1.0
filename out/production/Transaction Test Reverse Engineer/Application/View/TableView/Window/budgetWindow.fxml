@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import javafx.collections.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.cell.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import java.net.URL?>
+<?import javafx.scene.control.cell.PropertyValueFactory?>
+<?import javafx.collections.FXCollections?>
+
+<GridPane prefHeight="294.0" prefWidth="3000.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.moneymaker.modules.budgetmanager.BudgetController">
+    <padding>
+        <Insets bottom="10" left="10" top="10" />
+    </padding>
+   <children>
+           <Label style="-fx-font: NORMAL 25 Tahoma;" text="Budget" BorderPane.alignment="CENTER_LEFT" GridPane.columnIndex="0" GridPane.columnSpan="2" GridPane.rowIndex="0" />
+           <HBox style="-fx-background-color: white;" BorderPane.alignment="CENTER" GridPane.columnIndex="0" GridPane.rowIndex="1">
+               <children>
+                   <Button fx:id="btnDeleteEntry" maxWidth="1.7976931348623157E308" onAction="#deleteBudget" text="Delete" wrapText="True" />
+                   <Button fx:id="btnUpdateEntry" maxWidth="1.7976931348623157E308" onAction="#updateBudget" text="Update" wrapText="True" />
+                   <Button fx:id="btnBudgetCategories" maxWidth="1.7976931348623157E308" onAction="#openBudgetCategoryList" text="Categories" wrapText="True" />
+                   <Button fx:id="btnUncategorizedTransactions" maxWidth="1.7976931348623157E308" onAction="#showUncategorizedTransactions" text="Uncategorized Transactions" wrapText="True" />
+                   <Button fx:id="btnRefreshTable" maxWidth="1.7976931348623157E308" onAction="#buttonClickRefreshTable" text="Refresh Table" wrapText="True" />
+               </children>
+           </HBox>
+           <TableView fx:id="tblBudget" minWidth="587.0" prefHeight="2000" BorderPane.alignment="TOP_LEFT" GridPane.columnIndex="0" GridPane.rowIndex="2">
+             <columns>
+                 <TableColumn minWidth="-1.0" prefWidth="170.0" text="Name">
+                     <cellValueFactory>
+                         <PropertyValueFactory property="budgetName" />
+                     </cellValueFactory>
+                 </TableColumn>
+                 <TableColumn minWidth="-1.0" prefWidth="100.0" text="Start Date">
+                     <cellValueFactory>
+                         <PropertyValueFactory property="budgetStartDate" />
+                     </cellValueFactory>
+                 </TableColumn>
+                 <TableColumn minWidth="-1.0" prefWidth="100.0" text="End Date">
+                     <cellValueFactory>
+                         <PropertyValueFactory property="budgetEndDate" />
+                     </cellValueFactory>
+                 </TableColumn>
+                 <TableColumn minWidth="-1.0" prefWidth="100.0" text="Frequency">
+                     <cellValueFactory>
+                         <PropertyValueFactory property="budgetFrequency" />
+                     </cellValueFactory>
+                 </TableColumn>
+                 <TableColumn fx:id="colBudAmount" minWidth="-1.0" prefWidth="100.0" text="Amount">
+                     <cellValueFactory>
+                         <PropertyValueFactory property="budgetAmount" />
+                     </cellValueFactory>
+                 </TableColumn>
+                 <TableColumn fx:id="colUncategorizedTransactions" minWidth="-1.0" prefWidth="150.0" text="Uncategorized">
+                     <cellValueFactory>
+                         <PropertyValueFactory property="uncategorizedTransactions" />
+                     </cellValueFactory>
+                 </TableColumn>
+             </columns>
+               <items>
+                   <FXCollections fx:factory="observableArrayList">
+                </FXCollections>
+               </items>
+           </TableView>
+       <VBox fx:id="vboxSelectedCell" prefWidth="20.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
+       </VBox>
+       <TableView fx:id="tblTranCat" minWidth="200.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="2">
+           <columns>
+               <TableColumn minWidth="-1.0" prefWidth="200.0" text="Transaction Category">
+                   <cellValueFactory>
+                       <PropertyValueFactory property="transactionCategory" />
+                   </cellValueFactory>
+               </TableColumn>
+           </columns>
+       </TableView>
+   </children>
+    <stylesheets>
+        <URL value="@../../../CSS/CenterPanelButtonStyle.css" />
+    </stylesheets>
+</GridPane>

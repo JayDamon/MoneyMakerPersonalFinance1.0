@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.cell.*?>
+<?import javafx.scene.layout.*?>
+<?import java.net.URL?>
+<?import javafx.geometry.Insets?>
+<GridPane maxHeight="-Infinity" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.moneymaker.modules.transactionmanager.recurringtransactions.RecurringTransactionController">
+    <padding>
+        <Insets bottom="10" left="10" top="10" />
+    </padding>
+    <Label GridPane.columnIndex="0" GridPane.rowIndex="0" GridPane.columnSpan="2" fx:id="lblTest" style="-fx-font: NORMAL 25 Tahoma;" text="Recurring Transactions" />
+    <HBox minWidth="100" GridPane.rowIndex="1">
+            <Button fx:id="btnNewEntry" mnemonicParsing="false" text="New" onAction="#addNewRecurringTransactions" />
+            <Button mnemonicParsing="false" text="Delete" onAction="#buttonClickDelete" />
+            <Button fx:id="btnUpdateEntry" mnemonicParsing="false" text="Update" onAction="#updateRecurringTransaction" />
+      </HBox>
+      <TableView fx:id="tblRecurringTransactions" GridPane.rowIndex="2" prefWidth="3000.0" prefHeight="2000.0">
+        <columns>
+            <TableColumn fx:id="colName" minWidth="0.0" prefWidth="180.0" text="Name">
+                <cellValueFactory>
+                    <PropertyValueFactory property="recurringTransactionName" />
+                </cellValueFactory>
+            </TableColumn>
+            <TableColumn fx:id="colAccount" minWidth="0.0" prefWidth="180.0" text="Account">
+                <cellValueFactory>
+                    <PropertyValueFactory property="recurringTransactionAccount" />
+                </cellValueFactory>
+            </TableColumn>
+            <TableColumn fx:id="colBudget" minWidth="0.0" prefWidth="180.0" text="Budget">
+                <cellValueFactory>
+                    <PropertyValueFactory property="recurringTransactionBudget" />
+                </cellValueFactory>
+            </TableColumn>
+            <TableColumn fx:id="colFrequency" minWidth="0.0" prefWidth="100.0" text="Frequency">
+                <cellValueFactory>
+                    <PropertyValueFactory property="recurringTransactionFrequency" />
+                </cellValueFactory>
+            </TableColumn>
+            <TableColumn fx:id="colOccurrence" minWidth="0.0" prefWidth="100.0" text="Occurrence">
+                <cellValueFactory>
+                    <PropertyValueFactory property="recurringTransactionOccurrence" />
+                </cellValueFactory>
+            </TableColumn>
+            <TableColumn fx:id="colStartDate" minWidth="0.0" prefWidth="97.0" text="Start Date">
+                <cellValueFactory>
+                    <PropertyValueFactory property="recurringTransactionStartDate" />
+                </cellValueFactory>
+            </TableColumn>
+            <TableColumn fx:id="colEndDate" minWidth="0.0" prefWidth="97.0" text="End Date">
+                <cellValueFactory>
+                    <PropertyValueFactory property="recurringTransactionEndDate" />
+                </cellValueFactory>
+            </TableColumn>
+            <TableColumn fx:id="colAmount" minWidth="0.0" prefWidth="86.0" text="Amount">
+                <cellValueFactory>
+                    <PropertyValueFactory property="recurringTransactionAmount" />
+                </cellValueFactory>
+            </TableColumn>
+        </columns>
+      </TableView>
+    <stylesheets>
+        <URL value="@../../../CSS/CenterPanelButtonStyle.css" />
+    </stylesheets>
+</GridPane>

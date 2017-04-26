@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="119.0" minWidth="-Infinity" prefWidth="631.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.moneymaker.modules.transactionmanager.transactions.DuplicateTransactionWindowController">
+   <children>
+      <Label contentDisplay="CENTER" layoutX="111.0" layoutY="14.0" prefHeight="10.0" prefWidth="510.0" text="We found a similar Transaction from your stored Transactions." wrapText="true">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+       <Label contentDisplay="CENTER" layoutX="110.0" layoutY="41.0" prefHeight="27.0" prefWidth="163.0" text="Are they the Same?" wrapText="true">
+           <font>
+               <Font size="18.0" />
+           </font>
+       </Label>
+       <Button fx:id="btnYes" onAction="#btnClickYes" layoutX="283.0" layoutY="41.0" mnemonicParsing="false" text="Yes" />
+       <Button fx:id="btnNo" onAction="#btnClickNo" layoutX="332.0" layoutY="41.0" mnemonicParsing="false" text="No" />
+      <VBox fx:id="vboxDuplicateTransaction" layoutX="114.0" layoutY="69.0" prefHeight="35.0" prefWidth="502.0">
+         <padding>
+            <Insets bottom="10.0" />
+         </padding></VBox>
+      <Label layoutX="8.0" layoutY="67.0" prefHeight="9.0" prefWidth="104.0" text="This Transaction" />
+      <Label layoutX="8.0" layoutY="84.0" prefHeight="4.0" prefWidth="104.0" text="Other Transactions" />
+   </children>
+</AnchorPane>
