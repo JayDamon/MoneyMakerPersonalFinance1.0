@@ -83,9 +83,6 @@ public class MainWindowController implements Initializable {
     @FXML
     private Label userInfoLabel;
 
-    public MainWindowController() {
-    }
-
     @Override
     public void initialize(URL url, ResourceBundle rb) {
         hideAllPanes();

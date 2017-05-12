@@ -7,14 +7,18 @@ import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;
+import javafx.geometry.Insets;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.scene.input.KeyCode;
 import javafx.scene.input.MouseButton;
 import javafx.scene.layout.AnchorPane;
+import javafx.scene.layout.HBox;
+import javafx.scene.layout.VBox;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
 
+import javax.swing.*;
 import java.io.IOException;
 import java.math.BigDecimal;
 import java.net.URL;
@@ -303,6 +307,42 @@ public class TransactionController implements Initializable {
         showType();
     }
 
+    private void setRecurringTransaction() {
+        SQLTransaction sqlTransaction = new SQLTransaction();
+        AnchorPane newWindow = new AnchorPane();
+        HBox hBox = new HBox();
+        VBox vBox = new VBox();
+        vBox.setPadding(new Insets(10,10,10,10));
+        hBox.setPadding(new Insets(10,10,10,10));
+        newWindow.getChildren().add(hBox);
+        Label label = new Label("Recurring Transaction");
+        label.setPrefWidth(150);
+        ComboBox<String> comboBox = new ComboBox<>();
+        comboBox.setPrefWidth(200);
+        comboBox.setItems(sqlTransaction.listRecurringTransactions());
+
+        hBox.getChildren().addAll(label, comboBox);
+
+        Button button = new Button("Submit");
+
+        button.setOnAction(event -> {
+            if (comboBox.getSelectionModel().getSelectedIndex() != -1) {
+
+            }
+        });
+
+        vBox.getChildren().setAll(hBox, button);
+        newWindow.getChildren().add(vBox);
+
+        Stage stage = new Stage();
+        stage.setTitle("Set Recurring Transaction");
+        stage.initModality(Modality.WINDOW_MODAL);
+        stage.initOwner(btnNewEntry.getScene().getWindow());
+        Scene scene = new Scene(newWindow);
+        stage.setScene(scene);
+        stage.show();
+    }
+
     @FXML
     private void buttonClickDeleteTransaction() {
         ObservableList<Transaction> transactions = tblTransactions.getSelectionModel().getSelectedItems();
@@ -378,6 +418,7 @@ public class TransactionController implements Initializable {
         MenuItem updateTransaction = new MenuItem("Update");
         MenuItem deleteTransaction = new MenuItem("Delete");
         MenuItem importTransactions = new MenuItem("Import");
+        MenuItem setRecurringTransaction = new MenuItem("Set Recurring");
 
         newTransaction.setOnAction(event -> {
             newTransaction();
@@ -399,7 +440,12 @@ public class TransactionController implements Initializable {
             event.consume();
         });
 
-        contextMenu.getItems().addAll(newTransaction, updateTransaction, deleteTransaction, importTransactions);
+        setRecurringTransaction.setOnAction(event -> {
+            setRecurringTransaction();
+            event.consume();
+        });
+
+        contextMenu.getItems().addAll(newTransaction, updateTransaction, deleteTransaction, importTransactions, setRecurringTransaction);
 
         return contextMenu;
     }
