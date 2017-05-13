@@ -1,15 +1,15 @@
 package com.moneymaker.utilities.QueryCreator;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
-
-import javax.swing.plaf.nimbus.State;
 import java.math.BigDecimal;
-import java.sql.*;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 import java.util.ArrayList;
-import java.util.Date;
 
 /**
  * Created by Jay on 5/12/2017.
+ * Creates an SQL Select Query and runs it returning the result set.
  */
 public class QueryBuilder {
 
@@ -18,11 +18,10 @@ public class QueryBuilder {
         PreparedStatement stmt = createPreparedStatement(conn, sql);
         return executeQuery(stmt);
     }
-    public static ResultSet runQuery(Connection conn, ArrayList<String> fieldList, String tableName, ArrayList<String> conditionalColumns, ArrayList<Object> conditions) {
+
+    public static ResultSet runConditionalQuery(Connection conn, ArrayList<String> fieldList, String tableName, ArrayList<String> conditionalColumns, ArrayList<Object> conditions) {
         String sql = createSelectStatement(fieldList, tableName);
-        StringBuilder sb = new StringBuilder();
-        sb.append(addWhereClause(sql, conditionalColumns));
-        PreparedStatement stmt = createPreparedStatement(conn, sb.toString());
+        PreparedStatement stmt = createPreparedStatement(conn, sql + addWhereClause(conditionalColumns));
         stmt = setConditions(stmt, conditions);
         return executeQuery(stmt);
     }
@@ -39,7 +38,7 @@ public class QueryBuilder {
         return "SELECT " + fieldString.toString() + "FROM " + tableName;
     }
 
-    private static String addWhereClause(String query, ArrayList<String> conditionColumns) {
+    private static String addWhereClause(ArrayList<String> conditionColumns) {
         StringBuilder sb = new StringBuilder();
 
         for (int i = 0; i <= conditionColumns.size(); i++) {
@@ -48,7 +47,7 @@ public class QueryBuilder {
                 sb.append(" = ? ");
             }
         }
-        return "WHERE " + sb.toString();
+        return " WHERE " + sb.toString();
     }
 
     private static PreparedStatement setConditions(PreparedStatement stmt, ArrayList<Object> conditionValues) {
@@ -86,8 +85,7 @@ public class QueryBuilder {
 
     private static PreparedStatement createPreparedStatement(Connection conn, String sql) {
         try {
-            PreparedStatement stmt = conn.prepareStatement(sql);
-            return stmt;
+            return conn.prepareStatement(sql);
         } catch (SQLException e) {
             e.printStackTrace();
             return null;

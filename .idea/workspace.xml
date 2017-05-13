@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/QueryCreator/QueryBuilder.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/main/HomeController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/main/HomeController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/main/LoginWindowController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/main/LoginWindowController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/main/MainWindowController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/main/MainWindowController.class" />
@@ -41,6 +40,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transfermanager/TransferController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transfermanager/TransferController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transfermanager/UpdateTransferController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transfermanager/UpdateTransferController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/QueryCreator/QueryBuilder.java" afterPath="$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/QueryCreator/QueryBuilder.java" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -135,8 +135,8 @@
       <file leaf-file-name="QueryBuilder.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/QueryCreator/QueryBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+            <state relative-caret-position="170">
+              <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -859,6 +859,14 @@
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
     </task>
+    <task id="LOCAL-00001" summary="Added query builder">
+      <created>1494669429704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1494669429704</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -990,6 +998,8 @@
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/src/MoneyMaker" />
     </ignored-roots>
+    <MESSAGE value="Added query builder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added query builder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1387,8 +1397,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/QueryCreator/QueryBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        <state relative-caret-position="170">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
