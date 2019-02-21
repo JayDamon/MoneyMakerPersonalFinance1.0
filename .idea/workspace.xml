@@ -1,49 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/SQLBudget.java" line="49" />
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/NewTransactionController.java" line="59" />
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/accountmanager/SQLAccount.java" line="85" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/main/HomeController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/main/HomeController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/main/LoginWindowController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/main/LoginWindowController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/main/MainWindowController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/main/MainWindowController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/main/NewUserController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/main/NewUserController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/accountmanager/AccountController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/accountmanager/AccountController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/budgetmanager/BudgetController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/budgetmanager/BudgetController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/budgetmanager/BudgetWindowController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/budgetmanager/BudgetWindowController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/budgetmanager/UpdateBudgetController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/budgetmanager/UpdateBudgetController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/cashflowmanager/CashFlowController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/cashflowmanager/CashFlowController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/goalmanager/GoalsController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/goalmanager/GoalsController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/goalmanager/NewGoalController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/goalmanager/NewGoalController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/goalmanager/UpdateGoalController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/goalmanager/UpdateGoalController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/recurringtransactions/NewRecurringTransactionController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/recurringtransactions/NewRecurringTransactionController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/recurringtransactions/RecurringTransactionController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/recurringtransactions/RecurringTransactionController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/recurringtransactions/UpdateRecurringTransactionController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/recurringtransactions/UpdateRecurringTransactionController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/DuplicateTransactionWindowController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/DuplicateTransactionWindowController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/ImportBudgetTransactionsController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/ImportBudgetTransactionsController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/ImportTransactionsWindowController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/ImportTransactionsWindowController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionCategoryController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionCategoryController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController$1.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController$2.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController$3.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController$4.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController$5.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController$6.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController$7.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/UpdateTransactionController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/UpdateTransactionController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transfermanager/NewTransferController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transfermanager/NewTransferController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transfermanager/NewTransferNoTransactionController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transfermanager/NewTransferNoTransactionController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transfermanager/TransferController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transfermanager/TransferController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transfermanager/UpdateTransferController.class" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transfermanager/UpdateTransferController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/QueryCreator/QueryBuilder.java" afterPath="$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/QueryCreator/QueryBuilder.java" />
+    <list default="true" id="9ff34ae8-9937-4131-b70a-139cc16bf5e4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Transaction Test Reverse Engineer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoneyMaker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/CSS/AppStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/CSS/BackgroundBarChartStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/CSS/CenterPanelButtonStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/CSS/GoalGraphStyleBackground.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/CSS/GoalGraphStyleOverlay.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/CSS/OverlayBarChartStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/CSS/SidePanelButtonStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/CSS/TableStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/CSS/TransferLabelStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Methods/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Methods/Budget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Methods/BudgetGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Methods/CashFlow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Methods/Goal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Methods/RecurringTransaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Methods/Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Methods/TransactionCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Methods/Transfer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Methods/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Methods/UsernameData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/SQL/ConnectionManager/ConnectionManagerAdmin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/SQL/ConnectionManager/ConnectionManagerUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/SQL/SQLAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/SQL/SQLAdmin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/SQL/SQLBudget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/SQL/SQLCashFlow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/SQL/SQLGoal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/SQL/SQLMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/SQL/SQLTransaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/SQL/SQLTransfer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Style/Style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Utilities/AutoCompleteComboBoxListener$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Utilities/AutoCompleteComboBoxListener$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Utilities/AutoCompleteComboBoxListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Utilities/FormatDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Utilities/FormatDollarAmount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/Utilities/ParseAndSplitDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Controller/NewAccountController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Controller/NewGoalController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Controller/NewRecurringTransactionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Controller/NewTransactionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Controller/NewTransferController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Controller/NewTransferNoTransactionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Controller/UpdateAccountController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Controller/UpdateBudgetController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Controller/UpdateGoalController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Controller/UpdateRecurringTransactionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Controller/UpdateTransactionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Controller/UpdateTransferController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Window/newAccount.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Window/newGoalWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Window/newRecurringTransactionWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Window/newTransaction.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Window/newTransferNoTransactionWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Window/newTransferWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Window/updateAccount.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Window/updateBudget.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Window/updateGoalWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Window/updateRecurringTransactionWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Window/updateTransactionWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/InputWindows/Window/updateTransferWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/Main/Controller/LoginWindowController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/Main/Controller/MainWindowController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/Main/Controller/NewUserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/Main/Window/loginWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/Main/Window/mainWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/Main/Window/newUser.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/PopUp/Controller/BudgetTransactionsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/PopUp/Controller/BudgetWindowController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/PopUp/Controller/DuplicateTransactionWindowController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/PopUp/Controller/ImportTransactionsWindowController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/PopUp/Controller/TransactionCategoryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/PopUp/Window/budgetTransactions.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/PopUp/Window/budgetWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/PopUp/Window/duplicateTransactionWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/PopUp/Window/importTransactions.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/PopUp/Window/transactionCategoryWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Controller/AccountController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Controller/BudgetController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Controller/CashFlowController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Controller/GoalsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Controller/HomeController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Controller/HomeController$GraphBoundValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Controller/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Controller/RecurringTransactionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Controller/TransactionController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Controller/TransactionController$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Controller/TransactionController$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Controller/TransactionController$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Controller/TransactionController$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Controller/TransactionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Controller/TransferController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Window/accountWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Window/budgetWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Window/cashFlowWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Window/goalsWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Window/homeWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Window/recurringTransactionsWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Window/transactionWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/TableView/Window/transferWindow.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/main/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/main/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/main/LoginWindowController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/main/LoginWindowController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/main/MainWindowController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/main/MainWindowController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/main/NewUserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/main/NewUserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/accountmanager/AccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/accountmanager/AccountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/budgetmanager/BudgetController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/budgetmanager/BudgetController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/budgetmanager/BudgetWindowController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/budgetmanager/BudgetWindowController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/budgetmanager/UpdateBudgetController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/budgetmanager/UpdateBudgetController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/cashflowmanager/CashFlowController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/cashflowmanager/CashFlowController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/goalmanager/GoalsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/goalmanager/GoalsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/goalmanager/NewGoalController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/goalmanager/NewGoalController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/goalmanager/UpdateGoalController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/goalmanager/UpdateGoalController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/recurringtransactions/NewRecurringTransactionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/recurringtransactions/NewRecurringTransactionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/recurringtransactions/RecurringTransactionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/recurringtransactions/RecurringTransactionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/recurringtransactions/UpdateRecurringTransactionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/recurringtransactions/UpdateRecurringTransactionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/DuplicateTransactionWindowController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/DuplicateTransactionWindowController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/ImportBudgetTransactionsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/ImportBudgetTransactionsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/ImportTransactionsWindowController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/ImportTransactionsWindowController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/SQLTransaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/SQLTransaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionCategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionCategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/TransactionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/UpdateTransactionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transactionmanager/transactions/UpdateTransactionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transfermanager/NewTransferNoTransactionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transfermanager/NewTransferNoTransactionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transfermanager/TransferController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transfermanager/TransferController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transfermanager/UpdateTransferController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/modules/transfermanager/UpdateTransferController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/moneymaker/utilities/SQLAdmin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/moneymaker/utilities/SQLAdmin.class" afterDir="false" />
     </list>
-    <ignored path="JavaFxApplication.iws" />
-    <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,115 +152,67 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Transaction Test Reverse Engineer$Main.coverage" NAME="Main Coverage Results" MODIFIED="1475923196237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Application.SQL.ConnectionManager.*</FILTER>
-    </SUITE>
-  </component>
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="DebuggerManager">
-    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
-      <breakpoint>
-        <option name="NOTIFY_CAUGHT" value="true" />
-        <option name="NOTIFY_UNCAUGHT" value="true" />
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint>
-        <option name="NOTIFY_CAUGHT" value="true" />
-        <option name="NOTIFY_UNCAUGHT" value="true" />
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </breakpoint_any>
-    <ui_properties converted="true" />
-    <breakpoint_rules converted="true" />
-  </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FavoritesManager">
-    <favorites_list name="JavaFxApplication" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainWindowController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/main/MainWindowController.java">
+      <file leaf-file-name="AccountController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/accountmanager/AccountController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#13154#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#12446#12447#0" expanded="false" />
-                <element signature="e#12520#12521#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TransactionController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/TransactionController.java">
+      <file leaf-file-name="Budget.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/Budget.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5814">
-              <caret line="371" column="19" lean-forward="false" selection-start-line="371" selection-start-column="19" selection-end-line="371" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QueryBuilder.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/QueryCreator/QueryBuilder.java">
+      <file leaf-file-name="BudgetController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/BudgetController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="561">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SQLTransaction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/SQLTransaction.java">
+      <file leaf-file-name="SQLBudget.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/SQLBudget.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2040">
-              <caret line="137" column="34" lean-forward="false" selection-start-line="137" selection-start-column="34" selection-end-line="137" selection-end-column="34" />
-              <folding />
+            <state relative-caret-position="1598">
+              <caret line="112" selection-start-line="112" selection-end-line="112" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UpdateTransactionController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/UpdateTransactionController.java">
+      <file leaf-file-name="BudgetGraph.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/BudgetGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2397">
-              <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BudgetWindowController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/BudgetWindowController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsernameData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/main/UsernameData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -169,375 +220,190 @@
       <file leaf-file-name="StageIcons.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/StageIcons.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SQLMethods.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/SQLMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="XSLT Stylesheet" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>conte</find>
-      <find>contex</find>
-      <find>System</find>
-      <find>.</find>
-      <find>../</find>
-      <find>../.</find>
-      <find>../..</find>
-      <find>../../</find>
-      <find>A</find>
-      <find>Appl</find>
-      <find>Applic</find>
-      <find>Applica</find>
-      <find>Applicat</find>
-      <find>Applicatio</find>
-      <find>Application.</find>
-      <find>Application.M</find>
-      <find>Application.Ma</find>
-      <find>Application.Main</find>
-      <find>Application.Mai</find>
-      <find>Application</find>
-      <find>recurring</find>
-    </findStrings>
-    <dirStrings>
-      <dir>D:\Libraries\Documents\Programming\Money Maker</dir>
-    </dirStrings>
-  </component>
-  <component name="FindManager">
-    <FindUsagesManager>
-      <setting name="OPEN_NEW_TAB" value="false" />
-    </FindUsagesManager>
-  </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="PUSH_TAGS">
-      <GitPushTagMode />
-    </option>
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/fxml/budget/budgetTableWindow.fxml" />
-        <option value="$PROJECT_DIR$/src/main/resources/fxml/cashflow/cashFlowWindow.fxml" />
-        <option value="$PROJECT_DIR$/src/main/resources/fxml/main/homeWindow.fxml" />
-        <option value="$PROJECT_DIR$/src/main/resources/fxml/transactions/recurringtransactions/newRecurringTransactionWindow.fxml" />
-        <option value="$PROJECT_DIR$/src/main/resources/fxml/transactions/recurringtransactions/recurringTransactionsWindow.fxml" />
-        <option value="$PROJECT_DIR$/src/main/resources/fxml/transactions/recurringtransactions/updateRecurringTransactionWindow.fxml" />
-        <option value="$PROJECT_DIR$/src/main/resources/fxml/transactions/transactions/duplicateTransactionWindow.fxml" />
-        <option value="$PROJECT_DIR$/src/main/resources/fxml/transactions/transactions/importTransactions.fxml" />
-        <option value="$PROJECT_DIR$/src/main/resources/fxml/transactions/transactions/newTransaction.fxml" />
-        <option value="$PROJECT_DIR$/src/main/resources/fxml/transactions/transactions/transactionCategoryWindow.fxml" />
-        <option value="$PROJECT_DIR$/src/main/resources/fxml/transactions/transactions/transactionWindow.fxml" />
-        <option value="$PROJECT_DIR$/src/main/resources/fxml/transfers/newTransferNoTransactionWindow.fxml" />
-        <option value="$PROJECT_DIR$/src/main/resources/fxml/transfers/transferWindow.fxml" />
-        <option value="$PROJECT_DIR$/src/main/resources/fxml/transfers/updateTransferWindow.fxml" />
-        <option value="$PROJECT_DIR$/out/production/Transaction Test Reverse Engineer/Application/View/Main/Window/mainWindow.fxml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/ConnectionManager/ConnectionManagerAdmin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/ConnectionManager/ConnectionManagerUser.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/main/LoginWindowController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/main/HomeController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/accountmanager/AccountController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/main/NewUserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/accountmanager/Account.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/Budget.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/BudgetGraph.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/cashflowmanager/CashFlow.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/goalmanager/Goal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/recurringtransactions/RecurringTransaction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/Transaction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/TransactionCategory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transfermanager/Transfer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/main/UsernameData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/BudgetController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/BudgetTransactionsController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/BudgetWindowController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/goalmanager/GoalsController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/recurringtransactions/RecurringTransactionController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/DuplicateTransactionWindowController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transfermanager/NewTransferController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transfermanager/SQLTransfer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transfermanager/TransferController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transfermanager/UpdateTransferController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/ImportTransactionsWindowController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/BudgetTransactionsController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/ImportBudgetTransactionsController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/StageIcons.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/main/MainWindowController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/SQLTransaction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/TransactionController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/QueryCreator/QueryBuilder.java" />
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="MoneyMaker" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="MoneyMaker" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MoneyMaker" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
     </treeState>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1932" />
-    <option name="height" value="1047" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectReloadState">
-    <option name="STATE" value="0" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope">
-        <subPane subId="Production">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Transaction Test Reverse Engineer">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Transaction Test Reverse Engineer">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Application">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Transaction Test Reverse Engineer">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="src">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Application">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Methods">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MoneyMakerPersonalFinance1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MoneyMakerPersonalFinance1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MoneyMakerPersonalFinance1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MoneyMakerPersonalFinance1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MoneyMakerPersonalFinance1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MoneyMakerPersonalFinance1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moneymaker" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MoneyMakerPersonalFinance1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MoneyMakerPersonalFinance1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moneymaker" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utilities" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="MoneyMakerPersonalFinance1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoneyMakerPersonalFinance1.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoneyMakerPersonalFinance1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoneyMakerPersonalFinance1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoneyMakerPersonalFinance1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoneyMakerPersonalFinance1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoneyMakerPersonalFinance1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoneyMakerPersonalFinance1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoneyMakerPersonalFinance1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoneyMakerPersonalFinance1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="moneymaker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoneyMakerPersonalFinance1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoneyMakerPersonalFinance1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="moneymaker" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoneyMakerPersonalFinance1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoneyMakerPersonalFinance1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="moneymaker" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoneyMakerPersonalFinance1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoneyMakerPersonalFinance1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="moneymaker" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="accountmanager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoneyMakerPersonalFinance1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoneyMakerPersonalFinance1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="moneymaker" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="budgetmanager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoneyMakerPersonalFinance1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoneyMakerPersonalFinance1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="moneymaker" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="transactionmanager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoneyMakerPersonalFinance1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoneyMakerPersonalFinance1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="moneymaker" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoneyMakerPersonalFinance1.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoneyMakerPersonalFinance1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="OverrideImplement.combined" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
-    <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_f02737a78695063deace08e96d5042710d3e32db/cmd/git.exe" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
-    <property name="SearchEverywhereHistoryKey" value="genbudcat&#9;PSI&#9;JAVA://Application.Controller.PopUpController.BudgetCategoryWindowController#getGenBudCatID&#10;showGen&#9;PSI&#9;JAVA://Application.Controller.PopUpController.BudgetCategoryWindowController#showGenericBudgetCategories" />
-    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/Application/View/InputWindows/Controller/UpdateRecurringTransactionController.java" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Libraries\Documents\Programming\Transaction Test Reverse Engineer\src\Application\View\InputWindows\Window" />
-      <recent name="D:\Libraries\Documents\Programming\Transaction Test Reverse Engineer\src\Application\CSS" />
-      <recent name="D:\Libraries\Documents\Programming\Transaction Test Reverse Engineer\src\Application\View\TableView\Window" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Application.View.InputWindows.Controller" />
-      <recent name="Application.View.TableView.Controller" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Libraries\Documents\Programming\Money Maker\src\main\resources\fxml\transactions\transactions" />
-      <recent name="D:\Libraries\Documents\Programming\Money Maker\src\main\resources\fxml\main" />
-      <recent name="D:\Libraries\Documents\Programming\Money Maker\src\main\resources\fxml\transfers" />
-      <recent name="D:\Libraries\Documents\Programming\Money Maker\src\main\resources\fxml\transactions\recurringtransactions" />
-      <recent name="D:\Libraries\Documents\Programming\Money Maker\src\main\resources\fxml\transactions" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -551,115 +417,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <method>
-        <option name="Make" enabled="true" />
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <method />
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.moneymaker.Main" />
+      <module name="MoneyMaker" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.moneymaker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -668,95 +441,14 @@
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
+        <value defaultName="singleModule" />
       </option>
-      <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Transaction Test Reverse Engineer" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list />
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -767,647 +459,362 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
+        <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
-      <method />
     </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Application.SQL.ConnectionManager.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.moneymaker.Main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MoneyMaker" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-    </list>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="GAPID_DISABLE_PCS" value="false" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method>
-        <option name="Make" enabled="true" />
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
-      <Host>localhost</Host>
-      <Port>5050</Port>
-    </configuration>
-  </component>
-  <component name="SbtLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
-      <created>1359379246138</created>
+      <changelist id="9ff34ae8-9937-4131-b70a-139cc16bf5e4" name="Default" comment="" />
+      <created>1533040932559</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1359379246138</updated>
-      <workItem from="1359379250712" duration="1302000" />
+      <updated>1533040932559</updated>
+      <workItem from="1533040936925" duration="2065000" />
+      <workItem from="1533725519111" duration="845000" />
+      <workItem from="1535281912711" duration="621000" />
     </task>
-    <task id="LOCAL-00001" summary="Added query builder">
-      <created>1494669429704</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1494669429704</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1302000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="3531000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1932" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25381416" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32508436" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19382322" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32831088" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16197975" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871014" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17307693" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51229185" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24967907" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2087327" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25455987" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="TCPMON" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="10" weight="0.3298887" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44395116" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21581876" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32963374" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32963374" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24967907" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20665742" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3263041" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3318535" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24157304" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2087327" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871014" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48280424" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32454923" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-      <path value="$PROJECT_DIR$/src/MoneyMaker" />
-    </ignored-roots>
-    <MESSAGE value="Added query builder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added query builder" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transfermanager/UpdateTransferController.java</url>
-          <line>60</line>
-          <properties />
-          <option name="timeStamp" value="431" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/moneymaker/main/LoginWindowController.java</url>
-          <line>58</line>
-          <properties />
-          <option name="timeStamp" value="462" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="466" />
-    </breakpoint-manager>
-    <watches-manager />
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/accountmanager/UpdateAccountController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/accountmanager/AccountController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-650">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="119">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/Budget.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-361">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/BudgetController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-633">
-          <caret line="172" column="82" lean-forward="false" selection-start-line="172" selection-start-column="82" selection-end-line="172" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/BudgetGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/BudgetWindowController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="226" column="9" lean-forward="true" selection-start-line="226" selection-start-column="9" selection-end-line="226" selection-end-column="9" />
+        <state relative-caret-position="561">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/SQLBudget.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3707">
-          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="1598">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/UpdateBudgetController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1619">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/cashflowmanager/CashFlow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-905">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/cashflowmanager/CashFlowController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3639">
-          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/cashflowmanager/SQLCashFlow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3792">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/goalmanager/Goal.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/BudgetGraph.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/goalmanager/GoalsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-259">
-          <caret line="140" column="78" lean-forward="false" selection-start-line="140" selection-start-column="78" selection-end-line="140" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/goalmanager/NewGoalController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1891">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/goalmanager/SQLGoal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2585">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/goalmanager/UpdateGoalController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2486">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/recurringtransactions/RecurringTransaction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1024">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/Transaction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/TransactionCategory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/BudgetWindowController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transfermanager/NewTransferController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/main/UsernameData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="383" column="70" lean-forward="false" selection-start-line="383" selection-start-column="70" selection-end-line="383" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transfermanager/NewTransferNoTransactionController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1551">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transfermanager/SQLTransfer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2330">
-          <caret line="59" column="24" lean-forward="false" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transfermanager/Transfer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transfermanager/TransferController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-650">
-          <caret line="159" column="70" lean-forward="false" selection-start-line="159" selection-start-column="70" selection-end-line="159" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transfermanager/UpdateTransferController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-77">
-          <caret line="250" column="27" lean-forward="true" selection-start-line="250" selection-start-column="27" selection-end-line="250" selection-end-column="27" />
-          <folding>
-            <element signature="e#9506#9507#0" expanded="true" />
-            <element signature="e#9550#9551#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/AutoCompleteComboBoxListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/FormatDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-293">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/FormatDollarAmount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/ParseAndSplitDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1551">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/SQLAdmin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-344">
-          <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/SQLMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="108" column="11" lean-forward="true" selection-start-line="108" selection-start-column="11" selection-end-line="108" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/DuplicateTransactionWindowController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/ImportTransactionsWindowController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2954">
-          <caret line="206" column="0" lean-forward="true" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/NewTransactionController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/TransactionCategoryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-616">
-          <caret line="48" column="28" lean-forward="false" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/recurringtransactions/NewRecurringTransactionController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-276">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_65/javafx-src.zip!/javafx/scene/control/Alert.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/recurringtransactions/RecurringTransactionController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="113" column="18" lean-forward="true" selection-start-line="113" selection-start-column="18" selection-end-line="113" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/transactions/transactions/importbudgetTransactions.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/recurringtransactions/UpdateRecurringTransactionController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/ImportBudgetTransactionsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="72" column="25" lean-forward="false" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/css/AppStyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/css/BackgroundBarChartStyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/css/TransferLabelStyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/main/MainWindowController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13154#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#12446#12447#0" expanded="false" />
-            <element signature="e#12520#12521#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/StageIcons.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/UpdateTransactionController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/SQLMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2397">
-          <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/SQLTransaction.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="137" column="34" lean-forward="false" selection-start-line="137" selection-start-column="34" selection-end-line="137" selection-end-column="34" />
-          <folding />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/transactionmanager/transactions/TransactionController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/accountmanager/AccountController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5814">
-          <caret line="371" column="19" lean-forward="false" selection-start-line="371" selection-start-column="19" selection-end-line="371" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/AbstractStringBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/Budget.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="423" column="20" lean-forward="true" selection-start-line="423" selection-start-column="20" selection-end-line="423" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/StringBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/BudgetController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-425">
-          <caret line="76" column="19" lean-forward="true" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="561">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/QueryCreator/QueryBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/SQLBudget.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1598">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/BudgetGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/BudgetWindowController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/main/UsernameData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/StageIcons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/SQLMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/main/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6058">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/main/LoginWindowController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-939">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/main/MainWindowController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="269" column="5" lean-forward="true" selection-start-line="269" selection-start-column="5" selection-end-line="269" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/main/NewUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1842">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/accountmanager/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/accountmanager/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/BudgetController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/SQLBudget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/BudgetGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/BudgetWindowController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/modules/budgetmanager/Budget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/prefs/Preferences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3145">
+          <caret line="223" column="22" selection-start-line="223" selection-start-column="22" selection-end-line="223" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/main/UsernameData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/StageIcons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/utilities/SQLMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/moneymaker/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
@@ -1434,7 +841,6 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Python 2.7.11 virtualenv at C:\Users\jaynd\PythonTest interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1463,7 +869,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.4928161" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1471,6 +877,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
